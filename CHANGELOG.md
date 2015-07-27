@@ -3,6 +3,7 @@
 ### Features
 - [#3376](https://github.com/influxdb/influxdb/pull/3376): Support for remote shard query mapping
 - [#3372](https://github.com/influxdb/influxdb/pull/3372): Support joining nodes to existing cluster
+- [#3478](https://github.com/influxdb/influxdb/pull/3478)): Support incremental cluster joins
 
 ### Bugfixes
 - [#3405](https://github.com/influxdb/influxdb/pull/3405): Prevent database panic when fields are missing. Thanks @jhorwit2
